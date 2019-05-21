@@ -8,6 +8,6 @@ Hyperion Network: 2-3 filer er fra deres server.
 
 **Har du problemer er du velkommen til at skrive til mig på discord: DrSved#2004 og så vil jeg guide dig igennem nogle af tingene, prøv selv først tho**
 
-***HUSK AT DOWNLOAD DATABASEN OGSÅ HER FRA GITHUB + SERVER.CFG'EN!
+***HUSK AT DOWNLOAD DATABASEN OGSÅ HER FRA GITHUB + SERVER.CFG'EN!***
 
-Download: https://mega.nz/#!bvghmKqb!ijC757skg2ZsyGB7KQ7kgbousSoSp0HyIm7XJ8HqCQQ
+**Download:** https://mega.nz/#!bvghmKqb!ijC757skg2ZsyGB7KQ7kgbousSoSp0HyIm7XJ8HqCQQ
