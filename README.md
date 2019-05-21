@@ -15,9 +15,6 @@ Hyperion Network: 2-3 filer er fra deres server.
 
 
 **SERVER.CFG**
-#########################################
-#		  	STANDARD RESOURCES		         	#
-#########################################
 start mapmanager
 start chat
 start spawnmanager
@@ -32,24 +29,12 @@ start chat-theme-paradice
 start pNotify
 #start bob74
 start esx_drsved_lockdoor
-
-#########################################
-#		  	   MYSQL ASYNC			          	#
-#########################################
 start mysql-async
-
-#########################################
-#		   ESSENTIAL RESOURCES		        	#
-#########################################
 start essentialmode
 start esplugin_mysql
 start async
 start es_admin2
 start es_extended
-
-#########################################
-#		  ESX REQUIRED RESOURCES	        	#
-#########################################
 start instance
 start cron
 start skinchanger
@@ -77,10 +62,6 @@ start esx_barbie_lyftupp
 start esx_admin
 start esx_spectate
 start esx_blanchisseur
-
-#########################################
-#		   		ESX JOBS			    #
-#########################################
 start esx_jobs
 start esx_joblisting
 start esx_taxijob
@@ -91,18 +72,11 @@ start esx_bankerjob
 start esx_vehicleshop
 start esx_ambulancejob
 start esx_cartel
-#start esx_west (sved "dur ikke")
 start esx_bikerjob
 start esx_statejob
 start esx_unicornjob
-#start esx_taxijob (skal tjekkes inden det aktiveres)
+start esx_taxijob
 start esx_fbi
-#start esx_news  #tjek sql
-#start esx_propaganda   #tjek sql
-
-#########################################
-#		   ESX OTHER RESOURCES		         	#
-#########################################
 start ft_libs
 start esx_status
 start esx_customui
@@ -139,21 +113,12 @@ start esx_moneywasher
 start gamz-food
 start esx_scoreboard
 start new_banking
-
-#########################################
-#		          JsFour	 	                #
-#########################################
 start jsfour-blindfold
 start jsfour-criminalrecord
 start jsfour-dna
 start jsfour-idcard
 start jsfour-legitimation
 start jsfour-mdc
-#start jsfour-brottsregister
-
-#########################################
-#		VEHICLE SYSTEMS RESOURCES	         	#
-#########################################
 start carhud
 start wraith
 start KeepMyDoorOpen
@@ -168,10 +133,6 @@ start HoodTrunk
 start Spotlight
 start VehicleExtraMenu
 start EngineToggle
-
-#########################################
-#		    GAMEPLAY RESOURCES	        		#
-#########################################
 start noplayerblips
 start VejOgNavn
 start NeverWanted
@@ -199,26 +160,14 @@ start PolitiRadioLyd
 start WeazelNewsCam
 start esx_whitelist
 start connectqueue
-
-#########################################
-#		    SYSTEM RESOURCES	          		#
-#########################################
 start NativeUI
 start disabledispatch
 start loadingscreen
 start async
 start Willis_blips
 start fivem-ipl
-
-#########################################
-#		        Character	 	   	            #
-#########################################
 start esx_ui
 start securitycams
-
-#########################################
-#		          TEST	 	                  #
-#########################################
 start Karts
 start bob74_ipl
 start emotes
@@ -230,22 +179,10 @@ start esx-jail
 start Radargun
 start esx_inventoryhud
 start esx-kr-bag-inventory
-
-#########################################
-#		        Bygninger 	     	          #
-#########################################
 start maps
 start opendoor_madrazo
-
-#########################################
-#		        EUP      	 	   	            #
-#########################################
 #start eup-ui
 #start eup-stream
 start els-fivem
-
-#########################################
-#		        Menu     	 	   	            #
-#########################################
 start vMenu
 start EasyAdmin
