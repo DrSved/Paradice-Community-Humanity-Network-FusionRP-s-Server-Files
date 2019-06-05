@@ -2,6 +2,7 @@ Ja, du så rigtigt, det her er Paradice Community, Humanity Network og FustionRP
 
 Credit:
 ESX Org - Basen.
+
 FrozeNN - Hjalp med bugs og at customize lidt.
 
 Fnug - Lavet utroligt lidt men sad og pressede mig igennem <3
@@ -9,6 +10,8 @@ Fnug - Lavet utroligt lidt men sad og pressede mig igennem <3
 Willi - Lavet meget lidt, men stadig var med.
 
 Hyperion Network: 2-3 filer er fra deres server.
+
+Ramlov - Ingen kommentar men ja....
 
 
 **Har du problemer er du velkommen til at skrive til mig på discord: DrSved#2004 og så vil jeg guide dig igennem nogle af tingene, prøv selv først tho**
