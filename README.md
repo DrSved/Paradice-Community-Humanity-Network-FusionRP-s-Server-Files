@@ -11,7 +11,7 @@ Willi - Lavet meget lidt, men stadig var med.
 
 Hyperion Network: 2-3 filer er fra deres server.
 
-Ramlov - Ingen kommentar men ja....
+Ramlov - Køreskole og 3 andre ting
 
 
 **Har du problemer er du velkommen til at skrive til mig på discord: DrSved#2004 og så vil jeg guide dig igennem nogle af tingene, prøv selv først tho**
